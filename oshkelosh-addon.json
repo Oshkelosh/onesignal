@@ -1,0 +1,9 @@
+{
+  "addon_id": "onesignal",
+  "addon_name": "OneSignal",
+  "addon_description": "Send push notifications via OneSignal.",
+  "category": "notification",
+  "version": "1.0.0",
+  "min_oshkelosh_version": "0.1.0",
+  "python_requires": ">=3.11"
+}
